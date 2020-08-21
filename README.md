@@ -48,9 +48,10 @@ This could have huge future implications. As we further develop AI and quantum c
 
 Sequentially:
 
-- Stripping Text from Documents
-- Machine Learning & Analysis
-- Presentation Slides
+- [Stripping Text from Documents](https://github.com/anterra/unsupervised-self/tree/master/Creating%20Documents)
+- [Machine Learning & Analysis](https://github.com/anterra/unsupervised-self/blob/master/analysis.ipynb)
+- [Presentation Slides](https://github.com/anterra/unsupervised-self/blob/master/The%20Unsupervised%20Self.pdf)
+- Interactive pyLDAvis: download and open vis_data.html
 
 ## Project Team
 
